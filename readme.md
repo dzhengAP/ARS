@@ -17,7 +17,7 @@ Adaptive Reflection Scheduling (ARS) is a framework for efficient language model
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ars.git
+git clone https://github.com/dzhengAP/ars.git
 cd ars
 
 # Install dependencies
