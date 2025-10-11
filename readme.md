@@ -166,6 +166,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Acknowledgments
 
-- Built with 🤗 Transformers
+- Built with Transformers
 - Datasets from HuggingFace Hub
 - Inspired by recent work in efficient LLM inference
