@@ -150,9 +150,9 @@ If you use this code in your research, please cite:
 ```bibtex
 @software{ars2025,
   title={ARS: Adaptive Reflection Scheduling for Efficient LLM Reasoning},
-  author={Your Name},
+  author={Dongqi Zheng},
   year={2025},
-  url={https://github.com/yourusername/ars}
+  url={https://github.com/dqzhengAP/ars}
 }
 ```
 
